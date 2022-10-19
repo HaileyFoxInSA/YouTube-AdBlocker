@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name YouTube Ad Blocker
 // @description YouTube Ad Blocker
+// @author Hailey Fox <cutelilhailey@gmail.com>
 // @version 0.0.1
 // @icon https://www.google.com/s2/favicons?sz=64&domain=youtube.com
 // @match *://*.youtube.com/*
